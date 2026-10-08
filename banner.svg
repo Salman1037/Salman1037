@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-label="Salman Ali, Full Stack Developer">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080D19"/><stop offset="1" stop-color="#151632"/></linearGradient><linearGradient id="accent"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1000" height="330" rx="22" fill="url(#bg)"/>
+<g opacity=".16" stroke="#7dd3fc" stroke-width="1"><path d="M0 60H1000M0 120H1000M0 180H1000M0 240H1000M0 300H1000M75 0V330M175 0V330M275 0V330M375 0V330M475 0V330M575 0V330M675 0V330M775 0V330M875 0V330M975 0V330"/></g>
+<rect x="33" y="32" width="934" height="266" rx="15" fill="none" stroke="#2B3857"/>
+<circle cx="70" cy="59" r="5" fill="#22D3EE"><animate attributeName="opacity" values=".3;1;.3" dur="2.8s" repeatCount="indefinite"/></circle>
+<text x="87" y="64" fill="#94A3B8" font-size="15" font-family="Arial,sans-serif" letter-spacing="2">SALMAN.DEV / PORTFOLIO</text>
+<text x="69" y="144" font-size="51" font-weight="700" font-family="Arial,sans-serif" fill="#F8FAFC">Hi, I'm Salman Ali</text>
+<text x="69" y="194" font-size="28" font-weight="600" font-family="Arial,sans-serif" fill="url(#accent)">FULL STACK DEVELOPER</text>
+<rect x="69" y="210" width="285" height="3" rx="2" fill="url(#accent)" filter="url(#glow)"><animate attributeName="width" values="100;285;100" dur="6s" repeatCount="indefinite"/></rect>
+<text x="69" y="254" fill="#9CA3AF" font-size="18" font-family="Arial,sans-serif">Next.js  •  MERN  •  SaaS  •  AI Integrations</text>
+<g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".85"><circle cx="826" cy="164" r="79" stroke-dasharray="8 12"><animateTransform attributeName="transform" type="rotate" from="0 826 164" to="360 826 164" dur="30s" repeatCount="indefinite"/></circle><circle cx="826" cy="164" r="53" stroke-dasharray="4 9"><animateTransform attributeName="transform" type="rotate" from="360 826 164" to="0 826 164" dur="18s" repeatCount="indefinite"/></circle></g>
+<text x="826" y="177" text-anchor="middle" font-size="38" font-weight="bold" font-family="monospace" fill="#E2E8F0">&lt;/&gt;</text>
+</svg>
